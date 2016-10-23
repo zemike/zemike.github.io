@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mikhail Baryshev.</title>
+    <description>Mikhail Baryshev's portfolio. Russian Game Designer and Programmer.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 23 Oct 2016 16:19:40 -0700</pubDate>
+    <lastBuildDate>Sun, 23 Oct 2016 16:19:40 -0700</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>Project: REPLAY</title>
+        <description>&lt;p&gt;####&lt;i class=&quot;fa fa-terminal&quot;&gt;&lt;/i&gt; &lt;i class=&quot;fa fa-gamepad&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;####REPLAY
+A desktop action game where you need to escape deadly clones that are following your exact path.&lt;/p&gt;
+
+&lt;p&gt;####Contribution
+Although I have joined the team 2,5 months before the release, I was honored to become “tools lead” and have contributed to various aspects of the development:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Designed and added “New Game+” (except intercom mixing)&lt;/li&gt;
+  &lt;li&gt;Developed Messaging and Subtitles systems&lt;/li&gt;
+  &lt;li&gt;Integrated encrypted save files, including user statistics&lt;/li&gt;
+  &lt;li&gt;Worked on Interactibles and Player Controller&lt;/li&gt;
+  &lt;li&gt;Was in charge of Windows builds, developed a Demo build option&lt;/li&gt;
+  &lt;li&gt;Reintroduced shadows, worked on optimizations&lt;/li&gt;
+  &lt;li&gt;Minor script/scene fixes&lt;/li&gt;
+  &lt;li&gt;Active team discussion participation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;####Trailer&lt;/p&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lCn5gQdI_PA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;####Purpose of Creation
+UCSC G+PM Masters thesis.&lt;/p&gt;
+
+&lt;p&gt;####Release &amp;amp; Demo
+&lt;a href=&quot;http://earlgreygames.com/replay&quot;&gt;http://earlgreygames.com/replay&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Sep 2015 09:54:46 -0700</pubDate>
+        <link>http://localhost:4000/project/game/unity/c%23/replay</link>
+        <guid isPermaLink="true">http://localhost:4000/project/game/unity/c%23/replay</guid>
+        
+        
+        <category>project</category>
+        
+        <category>game</category>
+        
+        <category>unity</category>
+        
+        <category>c#</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Reap My SFML (in progress)</title>
+        <description>&lt;p&gt;####&lt;i class=&quot;fa fa-terminal&quot;&gt;&lt;/i&gt; &lt;i class=&quot;fa fa-gamepad&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;####Reap My SFML
+A C++/SFML port of earlier Java-based &lt;a href=&quot;/project/game/java/swing/rms&quot;&gt;Reap My Soul&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;####Purpose of Creation
+Performance increase and C++ exercise.&lt;/p&gt;
+
+&lt;p&gt;####Code
+Available upon request.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 28 Aug 2015 09:54:46 -0700</pubDate>
+        <link>http://localhost:4000/project/game/c++/sfml/rmsfml</link>
+        <guid isPermaLink="true">http://localhost:4000/project/game/c++/sfml/rmsfml</guid>
+        
+        
+        <category>project</category>
+        
+        <category>game</category>
+        
+        <category>c++</category>
+        
+        <category>sfml</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: SFML hallway (prototype)</title>
+        <description>&lt;p&gt;####&lt;i class=&quot;fa fa-terminal&quot;&gt;&lt;/i&gt; &lt;i class=&quot;fa fa-gamepad&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;####SFML hallway (prototype)
+A C++/SFML prototype of a generator and renderer of self-intersecting hallways. At first, it was based on drawing 2D rectangles followed by an unpromising 3D-matrix transformation implementation.&lt;/p&gt;
+
+&lt;p&gt;####Purpose of Creation
+For fun and as a C++ exercise.&lt;/p&gt;
+
+&lt;p&gt;####Code
+Available upon request.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 25 Apr 2015 09:54:46 -0700</pubDate>
+        <link>http://localhost:4000/project/prototype/c++/sfml/sfml</link>
+        <guid isPermaLink="true">http://localhost:4000/project/prototype/c++/sfml/sfml</guid>
+        
+        
+        <category>project</category>
+        
+        <category>prototype</category>
+        
+        <category>c++</category>
+        
+        <category>sfml</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: CppnSword</title>
+        <description>&lt;p&gt;####&lt;i class=&quot;fa fa-terminal&quot;&gt;&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;####CppnSword
+This software generates sword blades using Compositional Pattern-Producing Networks. 
+&lt;br /&gt;An accomodating paper explores the program, outputs and effects, such as “Afterswords” (the shapes look like swords at first, then not as swords at all followed by sword-like shapes again).&lt;/p&gt;
+
+&lt;p&gt;####Purpose of Creation
+Project for UCSC CMPS265 – Generative Methods, and as a tool for generating in-game content.&lt;/p&gt;
+
+&lt;p&gt;####Code
+&lt;a href=&quot;https://github.com/zemike/CppnSword&quot;&gt;https://github.com/zemike/CppnSword&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;####Links
+&lt;a href=&quot;/assets/download/Mikhail_Baryshev_CppnSword.pdf&quot;&gt;View article&lt;a&gt;&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;/assets/download/CppnSword_0_2.zip&quot;&gt;Download program&lt;a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Mar 2015 09:54:46 -0700</pubDate>
+        <link>http://localhost:4000/project/java/swing/paper/cppnsword</link>
+        <guid isPermaLink="true">http://localhost:4000/project/java/swing/paper/cppnsword</guid>
+        
+        
+        <category>project</category>
+        
+        <category>java</category>
+        
+        <category>swing</category>
+        
+        <category>paper</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Because Concussion (in progress)</title>
+        <description>&lt;p&gt;####&lt;i class=&quot;fa fa-terminal&quot;&gt;&lt;/i&gt; &lt;i class=&quot;fa fa-gamepad&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;####Because Concussion (Work in Progress)
+A game where everything happens because concussion.&lt;/p&gt;
+
+&lt;p&gt;####Purpose of Creation
+Former UCSC G+PM Masters thesis.&lt;/p&gt;
+
+&lt;p&gt;####Release Date/Demo
+When it is done.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Mar 2015 08:54:46 -0800</pubDate>
+        <link>http://localhost:4000/project/game/unity/c%23/becauseconcussion</link>
+        <guid isPermaLink="true">http://localhost:4000/project/game/unity/c%23/becauseconcussion</guid>
+        
+        
+        <category>project</category>
+        
+        <category>game</category>
+        
+        <category>unity</category>
+        
+        <category>c#</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Baraholka (board game)</title>
+        <description>&lt;p&gt;####&lt;i class=&quot;fa fa-gamepad&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;baraholka-board-game&quot;&gt;Baraholka (board game)&lt;/h4&gt;
+&lt;p&gt;A board game about holding a booth to sell pirated videogames in the late 1990th-early 2000th in Russia.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Suited for 3-7 players&lt;/li&gt;
+  &lt;li&gt;All hand-picked components are bought in Russia&lt;/li&gt;
+  &lt;li&gt;60 card event deck and 30 “bulk pirated videogames” (blurred on photos)&lt;/li&gt;
+  &lt;li&gt;Hidden information and amazing events, including a Police Raid&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;“Baraholka” is a Russian community market.&lt;/p&gt;
+
+&lt;p&gt;####Purpose of Creation
+The final project for UCSC Analog Game class.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Dec 2014 08:54:46 -0800</pubDate>
+        <link>http://localhost:4000/project/game/analog/baraholka</link>
+        <guid isPermaLink="true">http://localhost:4000/project/game/analog/baraholka</guid>
+        
+        
+        <category>project</category>
+        
+        <category>game</category>
+        
+        <category>analog</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Reap My Soul</title>
+        <description>&lt;p&gt;####&lt;i class=&quot;fa fa-terminal&quot;&gt;&lt;/i&gt; &lt;i class=&quot;fa fa-gamepad&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;####Reap My Soul
+A grim game about collecting souls of soldiers on a battlefield.&lt;/p&gt;
+
+&lt;p&gt;####Features&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Custom real-time engine, build from Swing (even animations are coded)&lt;/li&gt;
+  &lt;li&gt;Infinite levels (increasing difficulty)&lt;/li&gt;
+  &lt;li&gt;Relaxing Zen mode&lt;/li&gt;
+  &lt;li&gt;Audio and VO&lt;/li&gt;
+  &lt;li&gt;Fact generation&lt;/li&gt;
+  &lt;li&gt;Cheat codes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;####Purpose of Creation
+3 week prototype for UCSC G+PM Masters program. Later, there was an audio upgrade for audio class.&lt;/p&gt;
+
+&lt;p&gt;####Code
+Available upon request.&lt;/p&gt;
+
+&lt;p&gt;####3-week Version Video&lt;/p&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/WAXpo09Bv-E&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;####Credits
+&lt;a href=&quot;/assets/download/rms_credits.htm&quot;&gt;View&lt;a&gt;&lt;/a&gt; (audio upgrade)&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 Oct 2014 09:54:46 -0700</pubDate>
+        <link>http://localhost:4000/project/game/java/swing/rms</link>
+        <guid isPermaLink="true">http://localhost:4000/project/game/java/swing/rms</guid>
+        
+        
+        <category>project</category>
+        
+        <category>game</category>
+        
+        <category>java</category>
+        
+        <category>swing</category>
+        
+      </item>
+    
+      <item>
+        <title>Question: Are you from Moscow?</title>
+        <description>&lt;p&gt;No, I am from Krasnoyarsk. (That is in Siberia.)&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
+        <link>http://localhost:4000/question/origin</link>
+        <guid isPermaLink="true">http://localhost:4000/question/origin</guid>
+        
+        
+        <category>question</category>
+        
+      </item>
+    
+      <item>
+        <title>Question: How was this website done?</title>
+        <description>&lt;p&gt;I have used &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;http://jekyllthemes.org/themes/solid/&quot;&gt;Solid&lt;/a&gt; template from Oliver Stapleton. Almost all files were modified.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
+        <link>http://localhost:4000/question/site</link>
+        <guid isPermaLink="true">http://localhost:4000/question/site</guid>
+        
+        
+        <category>question</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Real Money Trade in Online Videogame Market as a Primary Source of Income. (Economics paper)</title>
+        <description>&lt;p&gt;####&lt;i class=&quot;fa fa-pencil&quot;&gt;&lt;/i&gt; &lt;i class=&quot;fa fa-money&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;real-money-trade-in-online-videogame-market-as-a-primary-source-of-income&quot;&gt;Real Money Trade in Online Videogame Market as a Primary Source of Income.&lt;/h4&gt;
+&lt;p&gt;An economics paper that explores trade of virtual money and characters of a MMORPG in highly abstract way.&lt;/p&gt;
+
+&lt;p&gt;Making a model where some people can earn living by selling virtual goods, it is shown that middle class benefits from a ban of the trade and that the game degrades to pay-to-win when the videogame company is allowed to sell virtual goods for real money. Never published.&lt;/p&gt;
+
+&lt;p&gt;####Purpose of Creation
+A term-long paper for forth-year economics course Econ 490, UBC.&lt;/p&gt;
+
+&lt;p&gt;####Link
+&lt;a href=&quot;/assets/download/econ490.pdf&quot;&gt;View&lt;a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
+        <link>http://localhost:4000/project/paper/econ490</link>
+        <guid isPermaLink="true">http://localhost:4000/project/paper/econ490</guid>
+        
+        
+        <category>project</category>
+        
+        <category>paper</category>
+        
+      </item>
+    
+  </channel>
+</rss>
